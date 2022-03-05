@@ -14,10 +14,16 @@
         class="com.example.fragment_220305.fragmetns.FirstFragment"/>
 
     <fragment
-        android:tag="과제"
+        android:tag="두번째프래그먼트"
         android:layout_width="match_parent"
-        android:layout_height="350dp"
+        android:layout_height="250dp"
         class="com.example.fragment_220305.fragmetns.SecondFragment"/>
+
+    <fragment
+        android:tag="첫프래그먼트를 다시"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        class="com.example.fragment_220305.fragmetns.FirstFragment"/>
 
 
 </LinearLayout>
