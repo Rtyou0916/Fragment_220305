@@ -13,4 +13,11 @@
         android:layout_height="250dp"
         class="com.example.fragment_220305.fragmetns.FirstFragment"/>
 
+    <fragment
+        android:tag="과제"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        class="com.example.fragment_220305.fragmetns.SecondFragment"/>
+
+
 </LinearLayout>
